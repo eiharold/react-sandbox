@@ -1,4 +1,8 @@
-# React + Vite
+# Boilerplate React
+
+Base para a criação de um App React utilizando o Vite, com as pastas e arquivos já limpos e preparados para uso.
+
+--
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
